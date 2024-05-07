@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/变量/不设初始值.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/变量/字符.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/变量/整型.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/变量/浮点.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/变量/类型转换.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/运算符/逻辑运算符.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
