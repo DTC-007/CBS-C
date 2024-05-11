@@ -7,11 +7,11 @@ void ex4();   //自减运算
 void ex5();   //优先级规则
 
 int main(){
-    ex1();
+//    ex1();
     ex2();
-    ex3();
-    ex4();
-    ex5();
+//    ex3();
+//    ex4();
+//    ex5();
 }
 
 void ex1(){    //自增运算
@@ -22,7 +22,7 @@ void ex1(){    //自增运算
     printf("a = %d, b = %d\n\n", a, b);
 }
 
-void ex2(){    //++在后自增运算
+void ex2(){    //++在后自增运算 ***
     int a = 10;
     int b = a++;   //写在后面和写在前面是有区别的
     printf("a = %d, b = %d\n\n", a, b);

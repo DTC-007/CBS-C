@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/变量/不设初始值.c" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/变量/字符.c" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/变量/整型.c" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/变量/浮点.c" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/变量/类型转换.c" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/运算符/逻辑运算符.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-变量/1-整型运算.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-变量/2-浮点.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-变量/3-字符.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-变量/4-不设初始值.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/1-变量/8-类型转换.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/2-运算符/5-逻辑运算符.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/3-流程控制/1-分支-if.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/3-流程控制/2-分支-switch.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/3-流程控制/4-循环-while.c" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

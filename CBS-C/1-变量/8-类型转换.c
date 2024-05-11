@@ -11,14 +11,14 @@ void test8();   //算式强制类型转换
 void test9();   //结果带小数的转换
 
 int main(){
-    test1();
+//    test1();
 //    test2();
 //    test3();
 //    test4();
 //    test5();
 //    test6();
 //    test7();
-//    test8();
+    test8();
 //    test9();
 }
 

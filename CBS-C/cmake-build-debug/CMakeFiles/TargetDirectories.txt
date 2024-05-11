@@ -1,3 +1,2 @@
-D:/Study/ClionPros/CBS-C/cmake-build-debug/CMakeFiles/hello.dir
 D:/Study/ClionPros/CBS-C/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Study/ClionPros/CBS-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
