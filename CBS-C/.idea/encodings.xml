@@ -10,6 +10,8 @@
     <file url="file://$PROJECT_DIR$/3-流程控制/1-分支-if.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/3-流程控制/2-分支-switch.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/3-流程控制/4-循环-while.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/3-流程控制/5-水仙花数.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/4-数组/1-创建和使用.c" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

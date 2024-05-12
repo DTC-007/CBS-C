@@ -5,6 +5,7 @@ void ex2();   //break
 void ex3();   //continue
 void ex4();   //嵌套break
 void ex5();   //嵌套continue
+void ex6();   //指数运算
 
 
 int main() {
@@ -13,6 +14,7 @@ int main() {
     ex3();
     ex4();
     ex5();
+    ex6();
 }
 
 void ex1(){     //通常用法
@@ -46,7 +48,7 @@ void ex4(){     //嵌套break
             printf("%d, %d\n", i, j);
         }
     }
-    printf("\n\n");
+    printf("\n");
 }
 
 void ex5(){     //嵌套continue
@@ -56,4 +58,13 @@ void ex5(){     //嵌套continue
             printf("%d, %d\n", i, j);
         }
     }
+    printf("\n");
+}
+
+void ex6(){     //指数运算
+    int i = 3, res = 1;
+    for (int j = 0;j < 3; ++j){
+        res *= i;
+    }
+    printf("%d", res);
 }
