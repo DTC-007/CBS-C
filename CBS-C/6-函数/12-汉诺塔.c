@@ -24,5 +24,5 @@ void hanoi(char a, char b, char c, int n){  //刚进来的时候，B作为中间柱子，C作为
 //}
 
 int main() {
-    hanoi('A', 'B', 'C', 4);
+    hanoi('A', 'B', 'C', 3);
 }
