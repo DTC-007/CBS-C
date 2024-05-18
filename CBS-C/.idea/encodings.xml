@@ -22,6 +22,15 @@
     <file url="file://$PROJECT_DIR$/6-函数/9-返回最小值.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/7-指针/1-指针定义.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/7-指针/4-指针和数组.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/8-结构体、联合体和枚举/1-结构体创建和使用.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/8-结构体、联合体和枚举/2-sizeof.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/8-结构体、联合体和枚举/3-结构体数组.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/8-结构体、联合体和枚举/4-结构体指针.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/8-结构体、联合体和枚举/5-函数修改结构体.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/8-结构体、联合体和枚举/7-枚举.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/9-预处理/1-文件包含.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/9-预处理/2-系统库.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/9-预处理/3-宏定义.c" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
