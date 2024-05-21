@@ -6,6 +6,8 @@
     <file url="file://$PROJECT_DIR$/1-变量/3-字符.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/1-变量/4-不设初始值.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/1-变量/8-类型转换.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10-文件IO/1-文件读写.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/10-文件IO/2-随机访问.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/2-运算符/5-逻辑运算符.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/3-流程控制/1-分支-if.c" charset="GBK" />
     <file url="file://$PROJECT_DIR$/3-流程控制/2-分支-switch.c" charset="GBK" />
